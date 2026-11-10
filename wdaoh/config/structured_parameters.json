@@ -1,0 +1,290 @@
+{
+  "CatBoost/CO/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/CO/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/CO/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/NO2/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/NO2/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/NO2/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/O3/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/O3/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/O3/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM10/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM10/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM10/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM25/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM25/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/PM25/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/SO2/12": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/SO2/24": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "CatBoost/SO2/6": {
+    "id": "c1",
+    "iterations": 600,
+    "depth": 8,
+    "learning_rate": 0.03
+  },
+  "DLinear+side/CO/12": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/CO/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/CO/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/NO2/12": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/NO2/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/NO2/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/O3/12": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/O3/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/O3/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/PM10/12": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/PM10/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/PM10/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/PM25/12": {
+    "id": "h01",
+    "d_model": 32,
+    "kernel": 7,
+    "learning_rate": 0.001,
+    "weight_decay": 0,
+    "batch_size": 128,
+    "max_epochs": 60,
+    "patience": 10
+  },
+  "DLinear+side/PM25/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/PM25/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/SO2/12": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/SO2/24": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  },
+  "DLinear+side/SO2/6": {
+    "id": "h05",
+    "d_model": 32,
+    "kernel": 5,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "max_epochs": 150,
+    "patience": 15
+  }
+}

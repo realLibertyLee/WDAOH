@@ -1,0 +1,110 @@
+{
+  "CatBoost": {
+    "h01": {
+      "depth": 6,
+      "id": "h01",
+      "iterations": 2000,
+      "l2_leaf_reg": 3,
+      "learning_rate": 0.01,
+      "patience": 100,
+      "random_strength": 1.0
+    },
+    "h05": {
+      "depth": 6,
+      "id": "h05",
+      "iterations": 3000,
+      "l2_leaf_reg": 10,
+      "learning_rate": 0.03,
+      "patience": 100,
+      "random_strength": 1.0
+    }
+  },
+  "DLinear+side": {
+    "h01": {
+      "batch_size": 128,
+      "d_model": 32,
+      "id": "h01",
+      "kernel": 7,
+      "learning_rate": 0.001,
+      "max_epochs": 60,
+      "patience": 10,
+      "weight_decay": 0
+    },
+    "h05": {
+      "batch_size": 64,
+      "d_model": 32,
+      "id": "h05",
+      "kernel": 5,
+      "learning_rate": 0.0001,
+      "max_epochs": 150,
+      "patience": 15,
+      "weight_decay": 0.0001
+    }
+  },
+  "GRU-D": {
+    "h01": {
+      "batch_size": 128,
+      "d_model": 32,
+      "id": "h01",
+      "kernel": 7,
+      "learning_rate": 0.001,
+      "max_epochs": 60,
+      "patience": 10,
+      "weight_decay": 0
+    },
+    "h07": {
+      "batch_size": 128,
+      "d_model": 128,
+      "id": "h07",
+      "kernel": 25,
+      "learning_rate": 0.001,
+      "max_epochs": 120,
+      "patience": 12,
+      "weight_decay": 0.0001
+    }
+  },
+  "ModernTCN": {
+    "h01": {
+      "batch_size": 128,
+      "d_model": 32,
+      "id": "h01",
+      "kernel": 7,
+      "learning_rate": 0.001,
+      "max_epochs": 60,
+      "patience": 10,
+      "weight_decay": 0
+    }
+  },
+  "TabICL": {
+    "fixed": {
+      "id": "fixed"
+    }
+  },
+  "TabPFN": {
+    "fixed": {
+      "id": "fixed"
+    }
+  },
+  "iTransformer": {
+    "h01": {
+      "batch_size": 128,
+      "d_model": 32,
+      "id": "h01",
+      "kernel": 7,
+      "learning_rate": 0.001,
+      "max_epochs": 60,
+      "patience": 10,
+      "weight_decay": 0
+    },
+    "h04": {
+      "batch_size": 128,
+      "d_model": 64,
+      "id": "h04",
+      "kernel": 13,
+      "learning_rate": 0.0003,
+      "max_epochs": 150,
+      "patience": 10,
+      "weight_decay": 0
+    }
+  }
+}

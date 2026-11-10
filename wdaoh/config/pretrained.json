@@ -1,0 +1,18 @@
+{
+  "TabICL": {
+    "checkpoint_bytes": 114324594,
+    "checkpoint_filename": "tabicl-regressor-v2-20260212.ckpt",
+    "checkpoint_sha256": "0db9cb538f114e79026bf08f45f41ad8dd7ad2de2aaca9a5ca8cd3bd9748ae7a",
+    "package": "tabicl",
+    "source_url": "https://huggingface.co/jingang/TabICL",
+    "version": "2.1.1"
+  },
+  "TabPFN": {
+    "checkpoint_bytes": 233289807,
+    "checkpoint_filename": "tabpfn-v3-regressor-v3_default.ckpt",
+    "checkpoint_sha256": "311ce18d97e9533d8585eaadafe040fbdd8070533209ed8696641dadc97a7301",
+    "package": "tabpfn",
+    "source_url": "https://huggingface.co/Prior-Labs/tabpfn_3",
+    "version": "8.0.8"
+  }
+}

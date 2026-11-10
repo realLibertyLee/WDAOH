@@ -1,0 +1,7 @@
+numpy==2.4.6
+pandas==3.0.5
+pyarrow==24.0.0
+catboost==1.2.10
+torch==2.7.1
+tabpfn==8.0.8
+tabicl==2.1.1

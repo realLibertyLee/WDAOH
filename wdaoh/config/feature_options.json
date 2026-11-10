@@ -1,0 +1,71 @@
+{
+  "calendar": "exact_utc",
+  "cross_lags": [
+    0,
+    1,
+    3,
+    6,
+    12,
+    23,
+    24
+  ],
+  "cross_trend_lags": [
+    1,
+    3,
+    6,
+    12,
+    23,
+    24
+  ],
+  "cross_windows": [
+    3,
+    6,
+    12,
+    24
+  ],
+  "distance_metric": "haversine_km",
+  "distance_tie_break": "station_axis",
+  "extra_lags": [
+    24,
+    48,
+    72,
+    168
+  ],
+  "history_hours": 24,
+  "neighbor_k": 5,
+  "neighbor_pool": "selected_station_pool",
+  "spatial_lags": [
+    0,
+    1,
+    3,
+    6,
+    12,
+    23,
+    24
+  ],
+  "spatial_windows": [
+    3,
+    6,
+    12,
+    24
+  ],
+  "temporal_trend_lags": [
+    1,
+    3,
+    6,
+    12,
+    23,
+    24,
+    48
+  ],
+  "temporal_windows": [
+    3,
+    6,
+    12,
+    24,
+    48,
+    72
+  ],
+  "trend_requires_both_endpoints_observed": true,
+  "trend_validity_indicator": true
+}

@@ -1,0 +1,22 @@
+{
+  "CatBoost": [
+    "h01",
+    "h05"
+  ],
+  "DLinear+side": [
+    "h01",
+    "h05"
+  ],
+  "ModernTCN": [
+    "h01",
+    "h02"
+  ],
+  "GRU-D": [
+    "h07",
+    "h01"
+  ],
+  "iTransformer": [
+    "h01",
+    "h04"
+  ]
+}
